@@ -1,4 +1,5 @@
-
+# poc-go
+A simple todo Application to add, remove and update todos
 <!-- poc-go/
 ├── backend/
 │   ├── config/
